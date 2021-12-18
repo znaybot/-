@@ -1,0 +1,54 @@
+body{
+	background:red; 
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 80px;
+	background:purple;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+}
+
+
+.green_block{
+	background: green;
+}
+
+.purple_block{
+	background: purple;
+}
+
+#center_block{
+	width: 300px;
+	height: 300px;
+	background: blue;
+}
+
+span{
+	color: red;
+}	
+
+.purple_block{
+	color: white;
+}
+.blue_block{
+	color: blue;
+}
+.yellow_block{
+	color: yellow;
+}
+.black_block{
+	color: black;
+}
+.pink_block{
+	color: pink;
+}
+.orange_block{
+	color: orange;
+}
